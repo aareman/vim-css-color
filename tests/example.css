@@ -2,7 +2,9 @@ i { background: #359 }
 b { background: #335599 }
 u { background: rgba(144, 0, 0, .5) }
 s { background: hsl(0, 100%, 50%) }
+`
 
+`
 *::color1 { -x-: #359 }
 *::color2 { -x-: #335599 }
 *::color3 { -x-: rgba(144, 0, 0, .5) }

@@ -29,6 +29,7 @@ call extend( b:css_color_hi,
 
 syn case ignore
 
+
 syn keyword BG000000 black   contained containedin=@colorableGroup
 syn keyword BGc0c0c0 silver  contained containedin=@colorableGroup
 syn keyword BG808080 gray    contained containedin=@colorableGroup
