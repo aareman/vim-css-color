@@ -1,6 +1,6 @@
 const Div = styled.div`
     .color{
-        red: #eeeeee;
+        color: #eeeeee;
     }
 `;
 var Example = React.createClass({
